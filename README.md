@@ -1,2 +1,2 @@
 # Deep-Learning-Activation-Functions
-Activation Function Intuition
+Activation Function & Optimizers Intuition
